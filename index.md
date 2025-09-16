@@ -1,1 +1,6 @@
-Under pressure.
+---
+layout: default
+title: Noodikko
+---
+
+# Welcome to Noodikko

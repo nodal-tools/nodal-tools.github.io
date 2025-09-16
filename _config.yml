@@ -7,19 +7,7 @@ plugins:
 name: noodikko
 title: Noodikko
 
+# Use data file for navigation
 chulapa-skin:
-  sidebar:
-    - title: Navi
-      children:
-        - title: Home
-          url: /
-        - title: Expertise
-          url: /expertise/
-        - title: Projects
-          url: /projects/
-        - title: Contact
-          url: /contact/
-
-# Enable sidebar
-navbar:
-  style: classic
+  vars:
+    sidebar_navigation: true

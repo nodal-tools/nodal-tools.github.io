@@ -1,3 +1,7 @@
 remote_theme: dieghernan/chulapa
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
 name: noodikko
 title: null

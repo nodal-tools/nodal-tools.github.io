@@ -5,19 +5,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 name: noodikko
-title: null
+title: Noodikko
 
-# Chulapa navbar configuration
+chulapa-skin:
+  sidebar:
+    - title: Navi
+      children:
+        - title: Home
+          url: /
+        - title: Expertise
+          url: /expertise/
+        - title: Projects
+          url: /projects/
+        - title: Contact
+          url: /contact/
+
+# Enable sidebar
 navbar:
-  style: dual
-  brand:
-    title: Noodikko
-  nav:
-  - title: Home
-    url: /
-  - title: Expertise
-    url: /expertise/
-  - title: Projects
-    url: /projects/
-  - title: Contact
-    url: /contact/
+  style: classic

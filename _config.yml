@@ -6,3 +6,18 @@ plugins:
   - jekyll-include-cache
 name: noodikko
 title: null
+
+# Chulapa navbar configuration
+navbar:
+  style: dual
+  brand:
+    title: Noodikko
+  nav:
+  - title: Home
+    url: /
+  - title: Expertise
+    url: /expertise/
+  - title: Projects
+    url: /projects/
+  - title: Contact
+    url: /contact/

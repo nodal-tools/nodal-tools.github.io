@@ -20,12 +20,13 @@ permalink: /expertise/
 
 ## Management experience
 
-- Horizon Europe project management
-- Academy of Finland project management
+- Horizon Europe projects
+- Research Council of Finland projects
 - Consultancy for governments, companies and international organisations
 - Research network leadership
 - Research team leadership
 
 ## Research outputs
 
-- See: [Google Scholar](https://scholar.google.com/citations?user=DWr7TDoAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=DWr7TDoAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Juha-Kiviluoma)

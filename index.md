@@ -1,13 +1,13 @@
 ---
 layout: default
+title: ""
 header_type: hero
 header_img: /assets/img/banner.png
 ---
 
 <div style="text-align: center; margin-top: -300px;">
   <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
-  <h1>Energy modelling</h1>
-  <p>Modelling solutions, research and innovation for a sustainable energy system</p>
+  <p style="color: white">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>
 
 ---

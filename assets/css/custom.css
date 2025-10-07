@@ -1,15 +1,5 @@
-.header-hero::before,
-.header-hero::after {
-  opacity: 0 !important;
-  background: none !important;
-}
-
-.header-hero {
-  background-color: transparent !important;
-}
-
-.hero-chulapa-bg-color {
-  opacity: 1 !important;
+.hero-chulapa-image {
+  background-image: url('https://nodal-tools.fi/assets/img/banner.png') !important;
 }
 body {
   background-color: #e6e6e6ff;

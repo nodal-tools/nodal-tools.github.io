@@ -6,9 +6,9 @@ header_img: /assets/img/banner.png
 ---
 
 <div style="text-align: center">
-  <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 350px;">
+  <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="width: 350px; height: auto;" />
   <br><br>
-  <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for a sustainable energy system</p>
+  <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for sustainable energy systems</p>
 </div>
 
 <div style="height: 70px;"></div>
@@ -18,7 +18,7 @@ header_img: /assets/img/banner.png
     <img src="/assets/img/background_expertize.png" alt="Expertise" class="link-image" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Expertise</h2>
-      <p>20-year experience in open source optimization modelling tools</p>
+      <p>20-years of experience in<br>open source modelling tools</p>
     </div>
   </a>
 </div>

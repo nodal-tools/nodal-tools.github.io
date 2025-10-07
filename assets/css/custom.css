@@ -28,14 +28,6 @@ footer {
   margin: 0 auto !important;
 }
 
-/* Narrow screens: expand to 90% width, maintain height */
-@media (max-width: 1000px) {
-  .link-image {
-    width: 90% !important;
-    max-width: 700px !important;
-  }
-}
-
 /* Short screens: reduce height, crop vertically */
 @media (max-height: 800px) {
   .link-image {

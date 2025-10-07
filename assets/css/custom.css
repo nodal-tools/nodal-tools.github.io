@@ -5,7 +5,7 @@
   max-height: 400px !important;
   height: 400px !important;
 }
-.hero-chulapa-image + main {
+main.container-lg {
   margin-top: -250px !important;
 }
 body {

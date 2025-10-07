@@ -18,3 +18,34 @@ footer {
   display: none !important;
   background-color: #423c39ff; !important;
 }
+
+
+.link-image {
+  width: 700px;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Narrow screens: expand to 90% width, maintain height */
+@media (max-width: 1000px) {
+  .link-image {
+    width: 90%;
+    max-width: 700px;
+  }
+}
+
+/* Short screens: reduce height, crop vertically */
+@media (max-height: 800px) {
+  .link-image {
+    height: 200px;
+  }
+}
+
+/* Very short screens */
+@media (max-height: 600px) {
+  .link-image {
+    height: 150px;
+  }
+}

@@ -12,27 +12,36 @@ header_img: /assets/img/banner.png
 
 ---
 
-## Expertize
-
-[![Expertise Background](/assets/img/background_expertize.png)](/expertise/)
-
-20-years of experience in open source optimization modelling tools
-
----
-
-## Projects
-
-[![Projects Background](/assets/img/background_projects.png)](/projects/)
-
-Ongoing projects:
-- Tool development for IRENA
-- Model interoperability with NREL for Sequoia Foundation
-- Battery asset optimization tool for an investor
+<div style="position: relative; text-align: center;">
+  <a href="/expertise/">
+    <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 100%; display: block;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+      <h2 style="color: #9bc4beff;">Expertise</h2>
+      <p>20-year experience in open source optimization modelling tools</p>
+    </div>
+  </a>
+</div>
 
 ---
 
-## Contact
+<div style="position: relative; text-align: center;">
+  <a href="/projects/">
+    <img src="/assets/img/background_projects.png" alt="Projects" style="width: 100%; display: block;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+      <h2 style="color: #9bc4beff;">Projects</h2>
+      <p>Ongoing: Tool development for IRENA; Model interoperability for NREL; Battery asset management optimization tool</p>
+    </div>
+  </a>
+</div>
 
-[![Contact Background](/assets/img/background_contact.png)](/contact/)
+---
 
-We help you solve the technical difficulties in the way of your energy modelling needs
+<div style="position: relative; text-align: center;">
+  <a href="/contact/">
+    <img src="/assets/img/background_contact.png" alt="Contact" style="width: 100%; display: block;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+      <h2 style="color: #9bc4beff;">Contact</h2>
+      <p>We help you solve the technical difficulties in the way of your energy modelling needs</p>
+    </div>
+  </a>
+</div>

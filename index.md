@@ -1,11 +1,9 @@
 ---
 layout: default
 title: " "
-header_type: hero
-header_img: /assets/img/banner.png
 ---
 
-<div style="position: relative; text-align: center; margin: 0 auto;">
+<div style="width: 100vw; margin-left: calc(-50vw + 50%); position: relative;">
   <img src="/assets/img/banner.png" alt="Background image" style="width: 100%; display: block;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
     <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 300px; margin-bottom: 20px;">

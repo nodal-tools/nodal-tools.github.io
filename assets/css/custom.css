@@ -1,3 +1,10 @@
+.header-hero::before,
+.header-hero::after {
+  display: none !important;
+}
+.header-hero {
+  background-color: transparent !important;
+}
 body {
   background-color: #e6e6e6ff;
 }

@@ -22,7 +22,7 @@ footer {
 
 .link-image {
   width: 700px !important;
-  height: 300px !important;
+  height: 200px !important;
   object-fit: cover !important;
   display: block !important;
   margin: 0 auto !important;
@@ -31,13 +31,13 @@ footer {
 /* Short screens: reduce height, crop vertically */
 @media (max-height: 800px) {
   .link-image {
-    height: 200px !important;
+    height: 150px !important;
   }
 }
 
 /* Very short screens */
 @media (max-height: 600px) {
   .link-image {
-    height: 150px !important;
+    height: 100px !important;
   }
 }

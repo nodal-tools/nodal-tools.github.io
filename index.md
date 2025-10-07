@@ -11,7 +11,7 @@ header_img: /assets/img/banner.png
   <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for sustainable energy systems</p>
 </div>
 
-<div style="height: 70px;"></div>
+<div style="height: 50px;"></div>
 
 <div style="position: relative; text-align: center">
   <a href="/expertise/">

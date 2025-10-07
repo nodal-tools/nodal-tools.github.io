@@ -26,4 +26,6 @@ permalink: /expertise/
 - Research network leadership
 - Research team leadership
 
+## Research outputs
 
+- See: [Google Scholar](https://scholar.google.com/citations?user=DWr7TDoAAAAJ&hl=en)

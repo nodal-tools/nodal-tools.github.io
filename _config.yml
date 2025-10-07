@@ -26,6 +26,10 @@ navbar:
   - title: Contact
     url: /contact/
 
+chulapa-skin:
+  vars:
+    hero-chulapa-overlay: "rgba(0,0,0,0)"
+
 footer:
 copyright: "© 2025 Nodal-Tools"
 links:

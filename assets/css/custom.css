@@ -1,9 +1,15 @@
 .header-hero::before,
 .header-hero::after {
-  display: none !important;
+  opacity: 0 !important;
+  background: none !important;
 }
+
 .header-hero {
   background-color: transparent !important;
+}
+
+.hero-chulapa-bg-color {
+  opacity: 1 !important;
 }
 body {
   background-color: #e6e6e6ff;

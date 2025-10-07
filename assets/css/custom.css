@@ -1,5 +1,12 @@
+.header-hero,
 .hero-chulapa-image {
   background-image: url('https://nodal-tools.fi/assets/img/banner.png') !important;
+  min-height: 400px !important;
+  max-height: 400px !important;
+  height: 400px !important;
+}
+.header-hero + div {
+  margin-top: -250px !important;
 }
 body {
   background-color: #e6e6e6ff;
@@ -10,9 +17,4 @@ body {
 footer {
   display: none !important;
   background-color: #423c39ff; !important;
-}
-@media (max-width: 768px) {
-  .header-hero + div {
-    margin-top: -500px !important;
-  }
 }

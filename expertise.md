@@ -4,18 +4,26 @@ title: Expertise
 permalink: /expertise/
 ---
 
-## Our Expertise
-
-### Technical skills
+## Technical expertise
 
 - Modelling and model development
-- Tool development
+- Software tool development
 - Workflow management
-- Energy and power systems
 - Optimisation
+- Energy and power systems
+- Electrification, sector coupling
+- Flexibility from industries, buildings, hydro power, H2 and its derivatives
+- Power markets, ancillary services
+- Capacity and energy adequacy
+- Cost-benefit analysis
+- From device level to continental energy systems
 
-### We serve
+## Management experience
 
-- Customers
-- Our whims
+- Horizon Europe project management
+- Academy of Finland project management
+- Consultancy for governments, companies and international organisations
+- Research network leadership
+- Research team leadership
+
 

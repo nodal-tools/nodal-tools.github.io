@@ -6,7 +6,5 @@ permalink: /contact/
 
 ## Contact Us
 
-We help you solve the technical difficulties in the way of your energy modelling needs
-
 **Email:** first.last@nodal-tools.fi<br>
-**Address:** 60N, 24E. Approximately.
+**Address:** 60.1N, 24.9E. Approximately.

@@ -5,12 +5,14 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-<div style="text-align: center; margin-top: -400px;">
+<div style="position: relative; text-align: center; height: 500px;">
   <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
-  <p style="color: white">Modelling solutions, research and innovation for a sustainable energy system</p>
+  <p style="color: white; font-size: 1.4rem;">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>
 
-<div style="position: relative; text-align: center; padding-top: 300px;">
+<div style="height: 50px;"></div>
+
+<div style="position: relative; text-align: center">
   <a href="/expertise/">
     <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
@@ -20,7 +22,9 @@ header_img: /assets/img/banner.png
   </a>
 </div>
 
-<div style="position: relative; text-align: center; padding-top: 50px;">
+<div style="height: 50px;"></div>
+
+<div style="position: relative; text-align: center">
   <a href="/projects/">
     <img src="/assets/img/background_projects.png" alt="Projects" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
@@ -30,7 +34,9 @@ header_img: /assets/img/banner.png
   </a>
 </div>
 
-<div style="position: relative; text-align: center; padding-top: 50px;">
+<div style="height: 50px;"></div>
+
+<div style="position: relative; text-align: center">
   <a href="/contact/">
     <img src="/assets/img/background_contact.png" alt="Contact" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">

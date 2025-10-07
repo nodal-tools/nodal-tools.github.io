@@ -4,20 +4,18 @@ title: Expertise
 permalink: /expertise/
 ---
 
-# Our Expertise
+## Our Expertise
 
-## Technical skills
+### Technical skills
 
-- Modelling
+- Modelling and model development
 - Tool development
-- Etc.
+- Workflow management
+- Energy and power systems
+- Optimisation
 
-## We serve
+### We serve
 
 - Customers
 - Our whims
-
-## Our Approach
-
-Impeccable.
 

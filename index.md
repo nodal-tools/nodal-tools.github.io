@@ -5,12 +5,12 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-<div style="position: relative; text-align: center; margin-top: -200px; height: 200px;">
+<div style="position: relative; text-align: center; margin-top: -350px; height: 200px;">
   <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
   <p style="color: white; font-size: 1.4rem;">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>
 
-<div style="height: 50px;"></div>
+<div style="height: 200px;"></div>
 
 <div style="position: relative; text-align: center">
   <a href="/expertise/">
@@ -29,7 +29,6 @@ header_img: /assets/img/banner.png
     <img src="/assets/img/background_projects.png" alt="Projects" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Projects</h2>
-      <p>Ongoing: Tool development for IRENA; Model interoperability for NREL; Battery asset management optimization tool</p>
     </div>
   </a>
 </div>
@@ -41,7 +40,6 @@ header_img: /assets/img/banner.png
     <img src="/assets/img/background_contact.png" alt="Contact" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Contact</h2>
-      <p>We help you solve the technical difficulties in the way of your energy modelling needs</p>
     </div>
   </a>
 </div>

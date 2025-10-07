@@ -6,6 +6,7 @@ permalink: /contact/
 
 # Contact Us
 
-**Email:** not for bots
-**Phone:** yes
+We help you solve the technical difficulties in the way of your energy modelling needs
+
+**Email:** first.last@nodal-tools.fi
 **Address:** 60N, 24E. Approximately.

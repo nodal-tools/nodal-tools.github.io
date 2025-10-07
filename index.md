@@ -1,17 +1,16 @@
 ---
 layout: default
 title: " "
+header_type: hero
+header_img: /assets/img/banner.png
 ---
 
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); position: relative;">
-  <img src="/assets/img/banner.png" alt="Background image" style="width: 100%; display: block;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 300px; margin-bottom: 20px;">
-    <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation for a sustainable energy system</p>
-  </div>
+<div style="text-align: center; margin-top: -200px">
+  <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 350px;">
+  <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>
 
-<div style="height: 200px;"></div>
+<div style="height: 50px;"></div>
 
 <div style="position: relative; text-align: center">
   <a href="/expertise/">

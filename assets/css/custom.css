@@ -6,8 +6,6 @@
   background-color: transparent !important;
 }
 body {
-  margin: 0;
-  padding: 0;
   background-color: #e6e6e6ff;
 }
 .navbar {
@@ -17,8 +15,8 @@ footer {
   display: none !important;
   background-color: #423c39ff; !important;
 }
-.container, .container-lg {
-  max-width: 100%;
-  padding: 0;
-  margin: 0;
+@media (max-width: 768px) {
+  .header-hero + div {
+    margin-top: -100px !important;
+  }
 }

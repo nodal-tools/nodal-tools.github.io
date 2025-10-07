@@ -4,8 +4,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-name: noodikko
-title: null
+name: Nodal-Tools
+title: Nodal-Tools
 stylesheets:
   - /assets/css/custom.css
 
@@ -13,7 +13,7 @@ stylesheets:
 navbar:
   style: dual
   brand:
-    title: Noodikko
+    title: Nodal-Tools
   nav:
   - title: Home
     url: /

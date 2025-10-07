@@ -14,7 +14,7 @@ header_img: /assets/img/banner.png
 
 ## Expertize
 
-[![Expertise Background](/assets/img/background_expertize.jpg)](/expertise/)
+[![Expertise Background](/assets/img/background_expertize.png)](/expertise/)
 
 20-years of experience in open source optimization modelling tools
 
@@ -22,7 +22,7 @@ header_img: /assets/img/banner.png
 
 ## Projects
 
-[![Projects Background](/assets/img/background_projects.jpg)](/projects/)
+[![Projects Background](/assets/img/background_projects.png)](/projects/)
 
 Ongoing projects:
 - Tool development for IRENA
@@ -33,6 +33,6 @@ Ongoing projects:
 
 ## Contact
 
-[![Contact Background](/assets/img/background_contact.jpg)](/contact/)
+[![Contact Background](/assets/img/background_contact.png)](/contact/)
 
 We help you solve the technical difficulties in the way of your energy modelling needs

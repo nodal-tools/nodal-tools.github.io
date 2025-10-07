@@ -5,16 +5,19 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-<div style="position: relative; text-align: center; margin-top: -350px; height: 200px;">
-  <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
-  <p style="color: white; font-size: 1.4rem;">Modelling solutions, research and innovation for a sustainable energy system</p>
+<div style="position: relative; text-align: center; margin: 0 auto;">
+  <img src="/assets/img/banner.png" alt="Background image" style="width: 100%; display: block;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 300px; margin-bottom: 20px;">
+    <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation for a sustainable energy system</p>
+  </div>
 </div>
 
 <div style="height: 200px;"></div>
 
 <div style="position: relative; text-align: center">
   <a href="/expertise/">
-    <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
+    <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 50%; max-height: 200px; object-fit: contain; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Expertise</h2>
       <p>20-year experience in open source optimization modelling tools</p>
@@ -26,7 +29,7 @@ header_img: /assets/img/banner.png
 
 <div style="position: relative; text-align: center">
   <a href="/projects/">
-    <img src="/assets/img/background_projects.png" alt="Projects" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
+    <img src="/assets/img/background_projects.png" alt="Projects" style="width: 50%; max-height: 200px; object-fit: contain; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Projects</h2>
     </div>
@@ -37,7 +40,7 @@ header_img: /assets/img/banner.png
 
 <div style="position: relative; text-align: center">
   <a href="/contact/">
-    <img src="/assets/img/background_contact.png" alt="Contact" style="width: 50%; max-height: 200px; object-fit: cover; display: block;">
+    <img src="/assets/img/background_contact.png" alt="Contact" style="width: 50%; max-height: 200px; object-fit: contain; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Contact</h2>
     </div>

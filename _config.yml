@@ -25,3 +25,10 @@ navbar:
     url: /projects/
   - title: Contact
     url: /contact/
+
+footer:
+copyright: "© 2025 Nodal-Tools"
+links:
+  - label: "Email"
+    icon: "far fa-envelope"
+    url: "mailto:first.last@nodal-tools.fi"

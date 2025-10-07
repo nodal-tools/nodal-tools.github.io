@@ -4,3 +4,7 @@ body {
 .navbar {
   background-color: #423c39ff; !important;
 }
+footer {
+  display: none !important;
+  background-color: #423c39ff; !important;
+}

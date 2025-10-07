@@ -6,6 +6,8 @@ plugins:
   - jekyll-include-cache
 name: Nodal-Tools
 title: Nodal-Tools
+url: "https://nodal-tools.fi"
+baseurl: ""
 stylesheets:
   - /assets/css/custom.css
 

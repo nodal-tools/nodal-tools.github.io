@@ -20,9 +20,9 @@ footer {
 }
 
 #maincontent img[src*="logo.svg"] {
-  max-width: 100% !important;
-  width: auto !important;
-  height: auto !important;
+  max-width: min(350px, 100%);
+  width: auto;
+  height: auto;
 }
 
 .link-image {

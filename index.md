@@ -18,7 +18,7 @@ header_img: /assets/img/banner.png
     <img src="/assets/img/background_expertize.png" alt="Expertise" class="link-image" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Expertise</h2>
-      <p>20-years of experience in<br>open source modelling tools</p>
+      <p style="font-size: clamp(1rem, 2vw, 1.4rem);">20-years of experience in<br>open source modelling tools</p>
     </div>
   </a>
 </div>

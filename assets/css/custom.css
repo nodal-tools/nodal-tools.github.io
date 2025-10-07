@@ -17,6 +17,6 @@ footer {
 }
 @media (max-width: 768px) {
   .header-hero + div {
-    margin-top: -100px !important;
+    margin-top: -150px !important;
   }
 }

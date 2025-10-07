@@ -5,16 +5,16 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-<div style="text-align: center; margin-top: -200px">
+<div style="text-align: center; margin-top: -250px">
   <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="max-width: 350px;">
   <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>
 
-<div style="height: 50px;"></div>
+<div style="height: 100px;"></div>
 
 <div style="position: relative; text-align: center">
   <a href="/expertise/">
-    <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 50%; max-height: 200px; object-fit: contain; display: block;">
+    <img src="/assets/img/background_expertize.png" alt="Expertise" style="width: 50%; max-width: 300px; object-fit: contain; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
       <h2 style="color: #9bc4beff;">Expertise</h2>
       <p>20-year experience in open source optimization modelling tools</p>

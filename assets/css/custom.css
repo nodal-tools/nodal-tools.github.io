@@ -21,31 +21,31 @@ footer {
 
 
 .link-image {
-  width: 700px;
-  height: 300px;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
+  width: 700px !important;
+  height: 300px !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
 }
 
 /* Narrow screens: expand to 90% width, maintain height */
 @media (max-width: 1000px) {
   .link-image {
-    width: 90%;
-    max-width: 700px;
+    width: 90% !important;
+    max-width: 700px !important;
   }
 }
 
 /* Short screens: reduce height, crop vertically */
 @media (max-height: 800px) {
   .link-image {
-    height: 200px;
+    height: 200px !important;
   }
 }
 
 /* Very short screens */
 @media (max-height: 600px) {
   .link-image {
-    height: 150px;
+    height: 150px !important;
   }
 }

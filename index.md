@@ -5,16 +5,17 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-# NODAL
-## Energy modelling
-
-Modelling solutions, research and innovation for sustainable energy system
+<div style="text-align: center; margin-top: -100px;">
+  <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
+  <h1>Energy modelling</h1>
+  <p>Modelling solutions, research and innovation for a sustainable energy system</p>
+</div>
 
 ---
 
 ## Expertize
 
-![Expertise Background](/assets/img/background-expertize.jpg)
+[![Expertise Background](/assets/img/background_expertize.jpg)](/expertise/)
 
 20-years of experience in open source optimization modelling tools
 
@@ -22,7 +23,7 @@ Modelling solutions, research and innovation for sustainable energy system
 
 ## Projects
 
-![Projects Background](/assets/img/background-projects.jpg)
+[![Projects Background](/assets/img/background_projects.jpg)](/projects/)
 
 Ongoing projects:
 - Tool development for IRENA
@@ -33,6 +34,6 @@ Ongoing projects:
 
 ## Contact
 
-![Contact Background](/assets/img/background-contact.jpg)
+[![Contact Background](/assets/img/background_contact.jpg)](/contact/)
 
 We help you solve the technical difficulties in the way of your energy modelling needs

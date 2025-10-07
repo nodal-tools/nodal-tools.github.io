@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Noodikko
+title: Nodal-Tools
 ---
 
-# Welcome to Noodikko
+# Welcome to Nodal-Tools
 
 lipsum
 

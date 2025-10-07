@@ -6,6 +6,8 @@ plugins:
   - jekyll-include-cache
 name: noodikko
 title: null
+stylesheets:
+  - /assets/css/custom.css
 
 # Chulapa navbar configuration
 navbar:

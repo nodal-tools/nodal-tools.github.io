@@ -5,7 +5,7 @@ header_type: hero
 header_img: /assets/img/banner.png
 ---
 
-<div style="position: relative; text-align: center; height: 200px;">
+<div style="position: relative; text-align: center; margin-top: -200px; height: 200px;">
   <img src="/assets/img/logo.svg" alt="NODAL Logo" style="max-width: 300px; margin-bottom: 20px;">
   <p style="color: white; font-size: 1.4rem;">Modelling solutions, research and innovation for a sustainable energy system</p>
 </div>

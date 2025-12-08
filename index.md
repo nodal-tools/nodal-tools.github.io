@@ -6,7 +6,7 @@ header_img: /assets/img/banner.png
 ---
 
 <div style="text-align: center">
-  <img src="/assets/img/logo.svg" alt="Nodal-Tools logo" style="width: 350px; height: auto;" />
+  <img src="/assets/img/logo.png" alt="Nodal-Tools logo" style="width: 350px; height: auto;" />
   <br><br>
   <p style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for sustainable energy systems</p>
 </div>

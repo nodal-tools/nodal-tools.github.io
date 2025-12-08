@@ -6,8 +6,11 @@ plugins:
   - jekyll-include-cache
 name: Nodal-Tools
 title: Nodal-Tools
+tite_separator: ""
 url: "https://nodal-tools.fi"
 baseurl: ""
+googlefonts:
+  - url: "https://fonts.googleapis.com/css2?family=Varela+Round&family=Inter:wght@400;500;600;700&display=swap"
 stylesheets:
   - /assets/css/custom.css
 

@@ -17,6 +17,7 @@ permalink: /expertise/
 - Capacity and energy adequacy
 - Cost-benefit analysis
 - From device level to continental energy systems
+- From multi-year planning to operations
 
 ## Management experience
 

@@ -1,3 +1,14 @@
+/* Fonts */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #e6e6e6ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Varela Round', sans-serif;
+}
+
+/* Hero */
 .header-hero,
 .hero-chulapa-image {
   background-image: url('https://nodal-tools.fi/assets/img/banner.png') !important;
@@ -5,26 +16,30 @@
   max-height: 400px !important;
   height: 400px !important;
 }
+
 body:has(.hero-chulapa-image) main.container-lg {
   margin-top: -250px !important;
 }
-body {
-  background-color: #e6e6e6ff;
-}
+
+/* Navbar */
 .navbar {
-  background-color: #423c39ff; !important;
-}
-footer {
-  display: none !important;
-  background-color: #423c39ff; !important;
+  background-color: #423c39ff !important;
 }
 
+/* Footer */
+footer {
+  display: none !important;
+  background-color: #423c39ff !important;
+}
+
+/* Logo */
 #maincontent img[src*="logo.svg"] {
   max-width: min(350px, 100%);
   width: auto;
   height: auto;
 }
 
+/* Link images */
 .link-image {
   width: 700px !important;
   height: 200px !important;
@@ -33,14 +48,12 @@ footer {
   margin: 0 auto !important;
 }
 
-/* Short screens: reduce height, crop vertically */
 @media (max-height: 800px) {
   .link-image {
     height: 150px !important;
   }
 }
 
-/* Very short screens */
 @media (max-height: 600px) {
   .link-image {
     height: 100px !important;

@@ -8,10 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Varela Round', sans-serif;
 }
 
-/* Hero */
 .header-hero,
 .hero-chulapa-image {
   background-image: url('https://nodal-tools.fi/assets/img/banner.png') !important;
+  background-size: cover !important; /* or 'contain' to fit entire image */
+  background-position: center !important;
   min-height: 400px !important;
   max-height: 400px !important;
   height: 400px !important;

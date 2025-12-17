@@ -12,7 +12,7 @@ header_img: /assets/img/banner.png
 </div>
 
 <div style="height: 50px;"></div>
-<p style="font-size: clamp(1.4rem, 2vw, 1.4rem); color: #333;">
+<p style="font-size: clamp(1rem, 2vw, 1.3rem); color: #333;">
 Nodal-Tools Oy is a Finnish energy consultancy with over 20 years of experience
 in open-source energy system modelling and applied energy research.
 We support organisations in solving concrete modelling challenges — for flexible,

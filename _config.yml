@@ -6,7 +6,7 @@ plugins:
   - jekyll-include-cache
 name: Nodal-Tools
 title: Nodal-Tools
-tite_separator: ""
+title_separator: ""
 url: "https://nodal-tools.fi"
 baseurl: ""
 googlefonts:

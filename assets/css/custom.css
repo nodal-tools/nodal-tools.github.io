@@ -25,6 +25,9 @@ body:has(.hero-chulapa-image) main.container-lg {
 .navbar {
   background-color: #423c39ff !important;
 }
+.navbar-nav .nav-link {
+  text-transform: none !important;
+}
 
 /* Footer */
 footer {

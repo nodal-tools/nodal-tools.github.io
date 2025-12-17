@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energy modelling
+title:
 header_type: hero
 header_img: /assets/img/banner.png
 ---
@@ -8,11 +8,11 @@ header_img: /assets/img/banner.png
 <div style="text-align: center">
   <img src="/assets/img/logo.png" alt="Nodal-Tools logo" style="width: 350px; height: auto;" />
   <br><br>
-  <h2 style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for sustainable energy systems</p>
+  <h2 style="color: white; font-size: clamp(1rem, 2vw, 1.4rem);">Modelling solutions, research and innovation<br>for sustainable energy systems</h2>
 </div>
 
 <div style="height: 50px;"></div>
-<p style="font-size: clamp(1rem, 2vw, 1.4rem);">
+<p style="font-size: clamp(1rem, 2vw, 1.4rem); color: #333;">
 Nodal-Tools Oy is a Finnish energy consultancy with over 20 years of experience
 in open-source energy system modelling and applied energy research.
 We support organisations in solving concrete modelling challenges — for flexible,

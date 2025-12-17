@@ -18,8 +18,7 @@ stylesheets:
 navbar:
   style: dual
   brand:
-    img: /assets/img/logo-without-subtext.png
-    title: Nodal-Tools
+    img: /assets/img/logo-without-subtext.svg
   nav:
   - title: Home
     url: /

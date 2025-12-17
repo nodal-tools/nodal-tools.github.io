@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: " "
 header_type: hero
 header_img: /assets/img/banner.png
 ---
